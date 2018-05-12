@@ -1,0 +1,31 @@
+_repo: Best-Short-Stories_15667
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Masson, Thomas L.
+    aliases:
+    - Masson, Tom
+    - Masson, Thomas Lansing
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '1991'
+    url: http://www.gutenberg.org/2009/agents/1991
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Masson
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor'
+- !lcsh 'Anecdotes'
+- !lcc 'PN'
+title: Best Short Stories
+url: http://www.gutenberg.org/ebooks/15667
